@@ -1,0 +1,542 @@
+[
+  {
+    "image": "https://tse3.mm.bing.net/th/id/OIP.w34Vc4jv8mUxE0ahnLOOAgHaLH?pid=Api&P=0&h=220",
+    "title": "Quantum Quest",
+    "companyName": "PixelForge Games",
+    "id": 1,
+    "description": "An epic 3D open-world RPG with customizable characters and co-op missions.",
+    "size": 450,
+    "reviews": 125890,
+    "ratingAvg": 4.6,
+    "downloads": 56000000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 12800 },
+      { "name": "4 star", "count": 37490 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th/id/OIP.OX02wIKHm8J9n8_u1KTn5AHaHa?pid=Api&P=0&h=220",
+    "title": "ChronoSync",
+    "companyName": "SwiftTools Inc.",
+    "id": 2,
+    "description": "The ultimate time management and scheduling app with cloud integration.",
+    "size": 55,
+    "reviews": 45120,
+    "ratingAvg": 4.8,
+    "downloads": 12300000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 860 },
+      { "name": "4 star", "count": 13900 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th/id/OIP.8QUWVZCc3_O4MG5Wa5_O6gHaEK?pid=Api&P=0&h=220",
+    "title": "VibeStream",
+    "companyName": "ConnectWave Media",
+    "id": 3,
+    "description": "A new social video sharing platform for short, creative clips and live broadcasts.",
+    "size": 180,
+    "reviews": 890120,
+    "ratingAvg": 4.3,
+    "downloads": 180500000,
+    "ratings": [
+      { "name": "1 star", "count": 45000 },
+      { "name": "2 star", "count": 62000 },
+      { "name": "3 star", "count": 110000 },
+      { "name": "4 star", "count": 253120 },
+      { "name": "5 star", "count": 420000 }
+    ]
+  },
+  {
+    "image": "https://tse3.mm.bing.net/th/id/OIP.nwQAYI5Ps-Xhsmjzhy2lZwHaFy?pid=Api&P=0&h=220",
+    "title": "FitFusion",
+    "companyName": "HealthMetrics Solutions",
+    "id": 4,
+    "description": "Personalized workout plans, nutrition tracking, and community challenges.",
+    "size": 95,
+    "reviews": 78200,
+    "ratingAvg": 4.5,
+    "downloads": 35700000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 8700 },
+      { "name": "4 star", "count": 23000 },
+      { "name": "5 star", "count": 43000 }
+    ]
+  },
+  {
+    "image": "https://tse3.mm.bing.net/th/id/OIP.pGq2IZVuSvgG28-x6VURgwHaEK?pid=Api&P=0&h=220",
+    "title": "DataVault VPN",
+    "companyName": "CypherGuard Security",
+    "id": 5,
+    "description": "Military-grade encryption for secure, private browsing and data protection.",
+    "size": 30,
+    "reviews": 22100,
+    "ratingAvg": 4.9,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 17500 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.DZgP5FLXP1H7EVWWt5EoVAHaHa?pid=Api&P=0&h=220",
+    "title": "Nebula Rider",
+    "companyName": "Starfield Studios",
+    "id": 6,
+    "description": "An addictive endless runner game through a beautiful, cosmic landscape.",
+    "size": 110,
+    "reviews": 310000,
+    "ratingAvg": 4.4,
+    "downloads": 75000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://tse3.mm.bing.net/th/id/OIP.1fPn3cghKxqrMmgZzaK2_QHaJ4?pid=Api&P=0&h=220",
+    "title": "ZenFlow Daily",
+    "companyName": "Mindful Technologies",
+    "id": 7,
+    "description": "Guided meditations, sleep stories, and ambient soundscapes for relaxation.",
+    "size": 150,
+    "reviews": 55900,
+    "ratingAvg": 4.7,
+    "downloads": 20400000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 37000 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.0LujM0SydjcnW5o6qFnqCwHaD4?pid=Api&P=0&h=220",
+    "title": "CodeCanvas",
+    "companyName": "DevSphere Labs",
+    "id": 8,
+    "description": "Mobile IDE for coding on the go with support for multiple programming languages.",
+    "size": 70,
+    "reviews": 15050,
+    "ratingAvg": 4.2,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5250 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "image": "https://tse2.mm.bing.net/th/id/OIP.LxbMKCN-pQ1x862La2YkWwHaHa?pid=Api&P=0&h=220",
+    "title": "BudgetBoss",
+    "companyName": "FinTech Solutions",
+    "id": 9,
+    "description": "Expense tracker and budgeting tool with smart spending categorization.",
+    "size": 40,
+    "reviews": 92500,
+    "ratingAvg": 4.6,
+    "downloads": 41200000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://tse3.mm.bing.net/th/id/OIP.Ys48ncMxQdaTH06TYpsxfwHaFj?pid=Api&P=0&h=220",
+    "title": "Articulate Draw",
+    "companyName": "Creative Suite Co.",
+    "id": 10,
+    "description": "Professional digital drawing and painting application for touch devices.",
+    "size": 250,
+    "reviews": 61200,
+    "ratingAvg": 4.7,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3800 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 36000 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.vasZ0DG3BDp_-d51CRq_EwHaJQ?pid=Api&P=0&h=220",
+    "title": "Word Blitz Mania",
+    "companyName": "LexiGames LLC",
+    "id": 11,
+    "description": "Fast-paced, multiplayer word search and puzzle game.",
+    "size": 85,
+    "reviews": 210500,
+    "ratingAvg": 4.5,
+    "downloads": 98000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 20500 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 119000 }
+    ]
+  },
+  {
+    "image": "https://tse2.mm.bing.net/th/id/OIP.QJJ6cmeTQIWsqvNhBkxFhAHaHa?pid=Api&P=0&h=220",
+    "title": "Aura Weather",
+    "companyName": "GlobalForecast Tech",
+    "id": 12,
+    "description": "Hyper-local weather forecasts with beautiful, animated radar maps.",
+    "size": 60,
+    "reviews": 51900,
+    "ratingAvg": 4.9,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 36000 }
+    ]
+  },
+  {
+    "image": "https://tse3.mm.bing.net/th/id/OIP.ZZETy9i6Jmv1fYS7WUAz1AHaHa?pid=Api&P=0&h=220",
+    "title": "EchoChat",
+    "companyName": "SecureComms Group",
+    "id": 13,
+    "description": "Encrypted messaging and voice calls with disappearing message options.",
+    "size": 75,
+    "reviews": 340000,
+    "ratingAvg": 4.7,
+    "downloads": 110000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 82000 },
+      { "name": "5 star", "count": 230000 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.NXAxcIOxk9FmUnEVSYqOwQHaHa?pid=Api&P=0&h=220",
+    "title": "Recipe Remix",
+    "companyName": "Culinary Apps",
+    "id": 14,
+    "description": "Discover new recipes and adjust ingredients based on dietary needs.",
+    "size": 90,
+    "reviews": 38100,
+    "ratingAvg": 4.4,
+    "downloads": 10500000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4100 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://tse2.mm.bing.net/th/id/OIP.g-k87MtU_3rvy7JGPHF9EQHaEI?pid=Api&P=0&h=220",
+    "title": "StackUp Builder",
+    "companyName": "BlockWorld Games",
+    "id": 15,
+    "description": "A creative sandbox game where you build complex structures and worlds.",
+    "size": 320,
+    "reviews": 601000,
+    "ratingAvg": 4.6,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 336000 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.b4_nOPvhTlRBQsY5eVpG9gHaDt?pid=Api&P=0&h=220",
+    "title": "SwiftNote Pro",
+    "companyName": "Productivity Hub",
+    "id": 16,
+    "description": "Minimalist note-taking app with markdown support and cross-device sync.",
+    "size": 35,
+    "reviews": 29800,
+    "ratingAvg": 4.8,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "image": "https://tse2.mm.bing.net/th/id/OIP.jlyz5IimokpaITOLVtZS7wHaDE?pid=Api&P=0&h=220",
+    "title": "TradeFlow",
+    "companyName": "Market Pulse",
+    "id": 17,
+    "description": "Stock market and crypto trading app with real-time data and news analysis.",
+    "size": 120,
+    "reviews": 95000,
+    "ratingAvg": 4.5,
+    "downloads": 28000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 9500 },
+      { "name": "4 star", "count": 25500 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th/id/OIP.IsMzBaH5mbztgVVxphI0iQAAAA?pid=Api&P=0&h=220",
+    "title": "Dungeon Crawler X",
+    "companyName": "Grindstone Studios",
+    "id": 18,
+    "description": "Retro pixel art dungeon adventure with endless loot and character classes.",
+    "size": 190,
+    "reviews": 405000,
+    "ratingAvg": 4.1,
+    "downloads": 88000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 130000 },
+      { "name": "5 star", "count": 145000 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.6ZgZ0YU-g8H-tz7ZbtBONwHaFc?pid=Api&P=0&h=220",
+    "title": "PhotoFilter 360",
+    "companyName": "Visual Magic Labs",
+    "id": 19,
+    "description": "Advanced photo editing with AI filters, effects, and professional tools.",
+    "size": 115,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": 60000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 85000 }
+    ]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th/id/OIP.l3Q3xC7P0RMdM93U7vFO-gHaHa?pid=Api&P=0&h=220",
+    "title": "LearnAnywhere",
+    "companyName": "EduStream Corp.",
+    "id": 20,
+    "description": "Interactive courses and tutorials on thousands of subjects for all ages.",
+    "size": 130,
+    "reviews": 88000,
+    "ratingAvg": 4.7,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 4400 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 57000 }
+    ]
+  },
+  {
+    "image": "https://tse2.mm.bing.net/th/id/OIP.rDlGyZhHPuF-1-6EhSG1XgAAAA?pid=Api&P=0&h=220",
+    "title": "Local Eats",
+    "companyName": "CraveTech Solutions",
+    "id": 21,
+    "description": "Find and order from local restaurants with exclusive delivery deals.",
+    "size": 105,
+    "reviews": 230000,
+    "ratingAvg": 4.5,
+    "downloads": 70000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 75000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://tse3.mm.bing.net/th/id/OIP.wlT6sjY_DLkDwJ2gKQyrVgHaFj?pid=Api&P=0&h=220",
+    "title": "Galaxy Wars MMO",
+    "companyName": "SpaceTime Gaming",
+    "id": 22,
+    "description": "Massively multiplayer online strategy game set in a futuristic galaxy.",
+    "size": 750,
+    "reviews": 850000,
+    "ratingAvg": 4.2,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 310000 }
+    ]
+  },
+  {
+    "image": "https://tse2.mm.bing.net/th/id/OIP.wJ01BlvAB-8JLd6CTCVeUgHaFC?pid=Api&P=0&h=220",
+    "title": "MindPalace",
+    "companyName": "Memory Labs",
+    "id": 23,
+    "description": "A flashcard and spaced repetition system to boost learning and retention.",
+    "size": 45,
+    "reviews": 18500,
+    "ratingAvg": 4.7,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.Fg03fUWCjs4_TcUBTlIaIwHaGd?pid=Api&P=0&h=220",
+    "title": "Travel Buddy",
+    "companyName": "Wanderlust Tech",
+    "id": 24,
+    "description": "Offline maps, currency converter, and trip itinerary planner for global travel.",
+    "size": 160,
+    "reviews": 42000,
+    "ratingAvg": 4.4,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://cdn-images-1.medium.com/max/1200/1*9XP2d_FGcaYzxsFZl9kzXg.png",
+    "title": "Cinephile Hub",
+    "companyName": "ReelData Insights",
+    "id": 25,
+    "description": "Track movies you've watched, rate them, and get personalized recommendations.",
+    "size": 80,
+    "reviews": 65000,
+    "ratingAvg": 4.6,
+    "downloads": 18500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 38500 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.ax_Kra_qL4jrD5Pr5MQGmAHaJ5?pid=Api&P=0&h=220",
+    "title": "Pet Pal Diary",
+    "companyName": "Furry Friends Inc.",
+    "id": 26,
+    "description": "Log your pet's activities, vet visits, and medication schedules.",
+    "size": 50,
+    "reviews": 12000,
+    "ratingAvg": 4.9,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "image": "https://tse3.mm.bing.net/th/id/OIP.NL-BPprnRlTo2IlXtBBGzwHaEc?pid=Api&P=0&h=220",
+    "title": "Circuit Racer 3D",
+    "companyName": "Adrenaline Games",
+    "id": 27,
+    "description": "High-octane arcade racing game with realistic physics and custom cars.",
+    "size": 600,
+    "reviews": 510000,
+    "ratingAvg": 4.3,
+    "downloads": 120000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 45000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 175000 },
+      { "name": "5 star", "count": 170000 }
+    ]
+  },
+  {
+    "image": "https://tse2.mm.bing.net/th/id/OIP.Ew8PF_YT135PvYRjx39TeAHaEK?pid=Api&P=0&h=220",
+    "title": "Quantum AI Chat",
+    "companyName": "FutureGen Tech",
+    "id": 28,
+    "description": "Next-generation conversational AI assistant for fast, accurate answers and creative writing.",
+    "size": 150,
+    "reviews": 110000,
+    "ratingAvg": 4.8,
+    "downloads": 45000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 75000 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.abWyQzUDXSOHQS5l9B4r8gHaD4?pid=Api&P=0&h=220",
+    "title": "Streamline Docs",
+    "companyName": "Office Automation Co.",
+    "id": 29,
+    "description": "Mobile office suite for creating, editing, and collaborating on documents and spreadsheets.",
+    "size": 110,
+    "reviews": 75000,
+    "ratingAvg": 4.5,
+    "downloads": 22000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 41000 }
+    ]
+  },
+  {
+    "image": "https://www.giantbomb.com/a/uploads/original/0/112/1034476-ffcceot_0003s_1280.jpg",
+    "title": "Echoes of Time",
+    "companyName": "Narrative Studio",
+    "id": 30,
+    "description": "A story-driven puzzle game with a compelling historical mystery narrative.",
+    "size": 280,
+    "reviews": 180000,
+    "ratingAvg": 4.6,
+    "downloads": 65000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 17000 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  }
+]
