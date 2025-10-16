@@ -1,6 +1,4 @@
 import React from "react";
-import bannerImage from "../public/assets/hero.png";
-import "./App.css";
 import { useLoaderData } from "react-router";
 import Home from "./app/Home";
 function App() {
@@ -31,7 +29,7 @@ function App() {
         </div>
       </div>
       <div className="flex justify-center ">
-        <img src={bannerImage} alt="" />
+        <img src="/assets/hero.png" alt="" />
       </div>
 
       <div className="py-10 bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-white">

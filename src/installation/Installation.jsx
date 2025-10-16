@@ -108,7 +108,6 @@ const Installation = () => {
                     <>
                         <div className="flex justify-between items-center mb-4 text-gray-600">
                             <span className="font-semibold">{installedApps.length} Apps Found</span>
-                            <span className="text-sm">Sort By: Size ▾</span>
                         </div>
                         <div className="space-y-4">
                             {installedApps.map(app => (

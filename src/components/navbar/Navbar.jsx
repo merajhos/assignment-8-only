@@ -54,7 +54,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div class="navbar-end ">
-    <a href="https://github.com/mamun-dev007" class="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] rounded-md text-white"><i class="fa-brands fa-github"></i> contribute</a>
+    <a href="https://github.com/merajhos" target="blank" class="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] rounded-md text-white"><i class="fa-brands fa-github"></i> contribute</a>
   </div>
 </div>
   );
